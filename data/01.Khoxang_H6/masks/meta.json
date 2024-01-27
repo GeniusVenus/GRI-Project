@@ -1,0 +1,54 @@
+{
+    "classes": [
+        {
+            "title": "Building",
+            "shape": "bitmap",
+            "color": "#FF0000",
+            "geometry_config": {},
+            "id": 12044207,
+            "hotkey": ""
+        },
+        {
+            "title": "Water",
+            "shape": "bitmap",
+            "color": "#FF69B4",
+            "geometry_config": {},
+            "id": 12044210,
+            "hotkey": ""
+        },
+        {
+            "title": "Tree",
+            "shape": "bitmap",
+            "color": "#417505",
+            "geometry_config": {},
+            "id": 12044211,
+            "hotkey": ""
+        },
+        {
+            "title": "Grass",
+            "shape": "bitmap",
+            "color": "#7ED321",
+            "geometry_config": {},
+            "id": 12044212,
+            "hotkey": ""
+        },
+        {
+            "title": "Road",
+            "shape": "bitmap",
+            "color": "#A9A9A9",
+            "geometry_config": {},
+            "id": 12044220,
+            "hotkey": ""
+        },
+        {
+            "title": "Soil",
+            "shape": "bitmap",
+            "color": "#8B572A",
+            "geometry_config": {},
+            "id": 12044221,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
