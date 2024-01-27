@@ -3,7 +3,7 @@ In this project, I present to you both machine learning and deep learning approa
 For deep learning, I choose basic U-net model for the task and use transfer learning method on U-net with pretrained VGG-16 model.
 <br/>
 <br/>
-This is the image that I used to prepare dataset to train model and segmented at the end of each notebook: 
+This is the image that I used to prepare dataset to train model and perform segmentation at the end of each notebook: 
 
 ![img.png](img.png)
 
